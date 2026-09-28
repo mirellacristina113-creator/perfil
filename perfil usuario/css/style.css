@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    min-height: 100vh;
+    margin:0;
+    background:linear-gradient(
+    135deg,
+    #450202,
+     #55306b);
+    font-family:Arial;
+
+
+
+
+
+
+
+}
+.perfil{
+ width: 400px;
+ background-color:rgb(29, 3, 71) ;
+ padding: 30px;
+ text-align: center;
+ border-radius: 15px;
+ box-shadow:0 0 15px rgba(5, 5, 4, 0.904) ;
+
+
+
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 80%;
+
+}
+h1{
+    color: rgb(185, 184, 184);
+
+}
+h3{
+    color: rgb(182, 183, 184);
+}
+p{
+    color: rgb(184, 181, 179);
+}
+button{
+    width: 160px;
+    height: 40px;
+    margin: nome;
+    border-radius: 8px;
+    background-color: #cfcaca;
+    color: rgb(6, 6, 6);
+    font-size:15px ;
+
+}
+
+
