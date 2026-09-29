@@ -54,5 +54,36 @@ button{
     font-size:15px ;
 
 }
+body{
+    background-color: black;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+
+}
+.perfil{
+    width: 500px;
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:0 4px 8px rgba(5, 5, 4, 0.904);
+    text-align: center;
+
+
+}
+button{
+    background-color: rgb(143, 139, 139);
+    color: rgb(71, 1, 1);
+    border: nome;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+
+
+
+}
 
 
